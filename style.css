@@ -1,0 +1,19 @@
+.box{
+    width: 25%;
+    height: 350px;
+    margin-left: 350px;
+    box-shadow: 3px 3px #c9c0c0;
+}
+img{
+    width: 200px;
+    cursor: pointer;
+    
+}
+.box h1{
+    font-size: 30px;
+    cursor: default;
+}
+.box p{
+    font-size: 10px;
+    cursor: default;
+}
